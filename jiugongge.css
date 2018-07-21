@@ -1,0 +1,16 @@
+.box{ width: 1050px;
+	  height: 1050px;
+	  margin-right: auto;
+	  margin-bottom: auto;
+	  margin-left: auto;
+	  margin-top: auto;
+	}
+.box>div{ width: 30%; 
+		  height: 30%;
+		  background: #ff9800e0;
+		  margin-top: 2%;
+		  margin-left: 2%;
+		  float: left;
+		  border-radius: 25px;
+
+		}
