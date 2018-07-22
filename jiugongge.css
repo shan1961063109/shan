@@ -1,5 +1,5 @@
-.box{ width: 1050px;
-	  height: 1050px;
+.box{ width: 900px;
+	  height: 900px;
 	  margin-right: auto;
 	  margin-bottom: auto;
 	  margin-left: auto;
@@ -7,9 +7,9 @@
 	}
 .box>div{ width: 30%; 
 		  height: 30%;
-		  background: #ff9800e0;
-		  margin-top: 2%;
-		  margin-left: 2%;
+		  background: #ff9800;
+		  margin-top: 2.5%;
+		  margin-left: 2.5%;
 		  float: left;
 		  border-radius: 25px;
 
